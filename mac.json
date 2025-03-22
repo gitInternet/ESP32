@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "mac_address": "A0:B7:65:29:15:A0",
+    "mac": "A0:B7:65:29:15:A0",
     "status": "online",
     "run" : "1"
   },
