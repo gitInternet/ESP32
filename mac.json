@@ -1,10 +1,8 @@
 [
   {
-    "device_id": "Stample1",
+    "device_id": "1",
     "mac_address": "A0:B7:65:29:15:A0",
-    "ip_address": "192.168.1.100",
     "status": "online",
-    "last_updated": "2025-03-22T12:30:00Z"
   },
   
 ]
